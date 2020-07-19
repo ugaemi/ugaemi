@@ -8,7 +8,6 @@ Hi, I'm ugaemi 😉, a junior developer from South Korea 🇰🇷.
 
 - 👨🏻‍💻 I’m currently working on [Plus X](https://plus-ex.com).
 - 🌱 I’m currently learning Python and Django.
-- 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via u.gaemi@gmail.com to reach me.
 - 👀 See my [Ugaemi's dev note](https://ugaemi.github.io) to get more info.
 
