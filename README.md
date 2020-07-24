@@ -2,8 +2,6 @@
 
 Hi, I'm ugaemi 😉, a junior developer from South Korea 🇰🇷.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-
 **Current Status Quo**
 
 - 👨🏻‍💻 I’m currently working on [Plus X](https://plus-ex.com).
