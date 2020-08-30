@@ -2,8 +2,6 @@
 
 Hi, I'm ugaemi 😉, a junior developer from South Korea 🇰🇷.
 
-**Current Status Quo**
-
 - 👨🏻‍💻 I’m currently working on [Plus X](https://plus-ex.com).
 - 🌱 I’m currently learning Python and Django.
 - 📫 Please email via u.gaemi@gmail.com to reach me.
