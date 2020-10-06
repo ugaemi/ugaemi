@@ -1,6 +1,6 @@
 ### Welcome to ugaemi's hub 👋
 
-Hi, I'm ugaemi 😉, a junior developer from South Korea 🇰🇷.
+Hi, I'm ugaemi 😉
 
 - 👨🏻‍💻 I’m currently working on [Plus X](https://plus-ex.com).
 - 🌱 I’m currently learning Python and Django.
