@@ -1,5 +1,7 @@
 # 🐭 🐜 🐝 . . .
 
-<p align="center"> 
-  <img width="600" height="200" alt="Github status" src="https://github-readme-stats.vercel.app/api?username=ugaemi&show_icons=true&hide_border=true&theme=tokyonight">
-</p>
+### Github
+[![Visits Badge](https://badges.pufler.dev/visits/ugaemi/ugaemi)](https://github.com/ugaemi)
+[![Years Badge](https://badges.pufler.dev/years/ugaemi)](https://github.com/ugaemi)
+[![Repos Badge](https://badges.pufler.dev/repos/ugaemi)](https://github.com/ugaemi?tab=repositories)
+[![Gists Badge](https://badges.pufler.dev/gists/ugaemi)](https://gist.github.com/ugaemi)
