@@ -7,8 +7,5 @@
 [![Repos Badge](https://badges.pufler.dev/repos/ugaemi)](https://github.com/ugaemi?tab=repositories)
 [![Gists Badge](https://badges.pufler.dev/gists/ugaemi)](https://gist.github.com/ugaemi)
 
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugaemi&layout=compact)](https://github.com/ugaemi)
-
 ### Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ugaemi&theme=dark)](https://github.com/ugaemi)
